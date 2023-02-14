@@ -53,7 +53,7 @@ body {
 
 .apresentacao__conteudo__titulo {
     font-family: var(--font-primaria);
-    font-size: 36px;
+    font-size: 2.3em;
     line-height: 56px;
 }
 
@@ -63,7 +63,7 @@ body {
 
 .apresentacao__conteudo__texto {
     font-family: var(--font-secundaria);
-    font-size: 24px;
+    font-size: 1.6em;
     line-height: 36px;
 }
 
