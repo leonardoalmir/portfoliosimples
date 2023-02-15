@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 
 :root {
-    --cor-primaria: #121212;
+    --cor-primaria: #101010;
+    /* --cor-primaria: #121212; */
     --cor-secundaria: #F6F6F6;
     --cor-terciaria: #22D4FD;
     --font-primaria: 'Krona One', sans-serif;
@@ -119,6 +120,10 @@ body {
     font-size: 1.5rem;
     font-weight: 400;
     text-align: center;
+}
+
+.rodape__texto {
+    font-size: 1rem;
 }
 
 .rodape__link {
